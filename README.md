@@ -1,6 +1,6 @@
 
 **DAY 1**: 
-Today I've learnt about Data Preprocessing:
+Today I've learned about Data Preprocessing:
 * Importing the libraries
 * Importing the dataset
 * Taking care of missing data
