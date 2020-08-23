@@ -28,3 +28,8 @@ Today I've learned about Multiple Linear Regression. Started reading a book call
 * Bidirectional Elimination\
 [Code](https://colab.research.google.com/drive/1rkQpg4QM10wMgXXSzElkrKuY3vyxuOBK?usp=sharing)\
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_100daysofmlcode-machinelearning-datascience-activity-6702964440360480768-iKxO)
+
+**DAY 4**:
+Today I've learned and implemented Polynomial Regression.\
+[Code](https://colab.research.google.com/drive/1OaFCjfd44nhhk7Ht1I4bYwkq65AuRGu0?usp=sharing)\
+[LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_google-colaboratory-activity-6703330580492382208-0bAF)
