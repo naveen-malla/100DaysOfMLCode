@@ -33,3 +33,8 @@ Today I've learned about Multiple Linear Regression. Started reading a book call
 Today I've learned and implemented Polynomial Regression.\
 [Code](https://colab.research.google.com/drive/1OaFCjfd44nhhk7Ht1I4bYwkq65AuRGu0?usp=sharing)\
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_google-colaboratory-activity-6703330580492382208-0bAF)
+
+**DAY 5**:
+Today I've learned and implemented SVR model.\
+[Code](https://colab.research.google.com/drive/12g_s1rm_clpv7xxOt2EBPUC7oYqjaBCQ?usp=sharing)\
+[LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_google-colaboratory-activity-6703672520643624960-OCH5)
