@@ -38,3 +38,12 @@ Today I've learned and implemented Polynomial Regression.\
 Today I've learned and implemented SVR model.\
 [Code](https://colab.research.google.com/drive/12g_s1rm_clpv7xxOt2EBPUC7oYqjaBCQ?usp=sharing)\
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_google-colaboratory-activity-6703672520643624960-OCH5)
+
+**DAY 6**:
+Today I've learned about:
+* Decision Tree Regression
+* Random Forest Regression
+* R-Squared and Adjusted R-Squared\
+[Decision Tree Regression Code](https://colab.research.google.com/drive/1GX74BOY4i-BHEpUYG9qapGgZ27V0soAW?usp=sharing)\
+[Random Forest Regression Code](https://colab.research.google.com/drive/1rY5P-Jnpp0S_TCSA2A3-xqrIXTOHFBqX?usp=sharing)
+
