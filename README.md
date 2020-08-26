@@ -47,3 +47,7 @@ Today I've learned about:
 [Decision Tree Regression Code](https://colab.research.google.com/drive/1GX74BOY4i-BHEpUYG9qapGgZ27V0soAW?usp=sharing)\
 [Random Forest Regression Code](https://colab.research.google.com/drive/1rY5P-Jnpp0S_TCSA2A3-xqrIXTOHFBqX?usp=sharing)
 
+**DAY 7**:
+Today I've learned and implemented Logistic Regression.\
+[Code](https://colab.research.google.com/drive/1I2NO3yb4hc0Wz5T0o4pn3dODnmDnPtXs?usp=sharing)
+
