@@ -40,14 +40,16 @@ Today I've learned and implemented SVR model.\
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_google-colaboratory-activity-6703672520643624960-OCH5)
 
 **DAY 6**:
-Today I've learned about:
-* Decision Tree Regression
-* Random Forest Regression
-* R-Squared and Adjusted R-Squared\
-[Decision Tree Regression Code](https://colab.research.google.com/drive/1GX74BOY4i-BHEpUYG9qapGgZ27V0soAW?usp=sharing)\
-[Random Forest Regression Code](https://colab.research.google.com/drive/1rY5P-Jnpp0S_TCSA2A3-xqrIXTOHFBqX?usp=sharing)
+Today I've learned and implemented:
+* Decision Tree Regression. [Code](https://colab.research.google.com/drive/1GX74BOY4i-BHEpUYG9qapGgZ27V0soAW?usp=sharing)
+* Random Forest Regression. [Code](https://colab.research.google.com/drive/1rY5P-Jnpp0S_TCSA2A3-xqrIXTOHFBqX?usp=sharing)
+* R-Squared and Adjusted R-Squared
 
 **DAY 7**:
-Today I've learned and implemented Logistic Regression.\
-[Code](https://colab.research.google.com/drive/1I2NO3yb4hc0Wz5T0o4pn3dODnmDnPtXs?usp=sharing)
+Today I've learned and implemented Logistic Regression. [Code](https://colab.research.google.com/drive/1I2NO3yb4hc0Wz5T0o4pn3dODnmDnPtXs?usp=sharing)
 
+**DAY 8**:
+Today I've learned and implemented:
+* K-Nearest Neighbors(K-NN) [Code](https://colab.research.google.com/drive/1AgCQuk0BCH5rB3OGuMabtrRG0xwb74Qs?usp=sharing)
+* Support Vector Machine(SVM) [Code](https://colab.research.google.com/drive/10QSWjJg3CikeDah1rmlDmL6SWYTPRJcm?usp=sharing)
+* Kernel SVM [Code](https://colab.research.google.com/drive/1QqnUTvGvAfj6hHzEAAat7AcoeckraaEn?usp=sharing)
