@@ -53,3 +53,9 @@ Today I've learned and implemented:
 * K-Nearest Neighbors(K-NN) [Code](https://colab.research.google.com/drive/1AgCQuk0BCH5rB3OGuMabtrRG0xwb74Qs?usp=sharing)
 * Support Vector Machine(SVM) [Code](https://colab.research.google.com/drive/10QSWjJg3CikeDah1rmlDmL6SWYTPRJcm?usp=sharing)
 * Kernel SVM [Code](https://colab.research.google.com/drive/1QqnUTvGvAfj6hHzEAAat7AcoeckraaEn?usp=sharing)
+
+**DAY 9**:
+Today I've learned and implemented:
+* Naive Bayes Classification [Code](https://colab.research.google.com/drive/1iOkoeYNJz7amAvmiBKN95peDSZnN0lNW?usp=sharing)
+* Decision Tree Classification [Code](https://colab.research.google.com/drive/1MuST_MLDwJsIiq37zIg-pQL7iHfDeMjE?usp=sharing)
+* Random Forest Classification [Code](https://colab.research.google.com/drive/1xowoo0YZw1-pgSCB9TDiAulJI-n_TKTp?usp=sharing)
