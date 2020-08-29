@@ -59,3 +59,6 @@ Today I've learned and implemented:
 * Naive Bayes Classification [Code](https://colab.research.google.com/drive/1iOkoeYNJz7amAvmiBKN95peDSZnN0lNW?usp=sharing)
 * Decision Tree Classification [Code](https://colab.research.google.com/drive/1MuST_MLDwJsIiq37zIg-pQL7iHfDeMjE?usp=sharing)
 * Random Forest Classification [Code](https://colab.research.google.com/drive/1xowoo0YZw1-pgSCB9TDiAulJI-n_TKTp?usp=sharing)
+
+**DAY 10**:
+Today I've learned about False Positives & False Negatives, Confusion Matrix, Accuracy Paradox, CAP Curve.
