@@ -62,3 +62,7 @@ Today I've learned and implemented:
 
 **DAY 10**:
 Today I've learned about False Positives & False Negatives, Confusion Matrix, Accuracy Paradox, CAP Curve.
+
+**DAY 11**:
+Today I've learned and implemented K-Means Clustering Algorithm. [Code](https://colab.research.google.com/drive/1HSjKycNJXNKjLy2nnRljNkx1cjVZFHpQ?usp=sharing)
+
