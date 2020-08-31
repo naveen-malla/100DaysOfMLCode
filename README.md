@@ -12,7 +12,7 @@ Source: [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://w
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_100daysofmlcode-machinelearning-datascience-activity-6702256267097968641-rxEO)
 
 **DAY 2**:
-Today I've learned and implemented Simple Linear Regression.\
+Today I've learned and implemented Simple Linear Regression.
 [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/Regression/simple_linear_regression.ipynb)\
 [LindedIn Post](https://www.linkedin.com/posts/naveen-malla_google-colaboratory-activity-6702620874555633664-Vy72)
 
