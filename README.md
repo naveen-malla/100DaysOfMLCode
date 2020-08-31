@@ -64,4 +64,4 @@ Today I've learned about False Positives & False Negatives, Confusion Matrix, Ac
 Today I've learned and implemented K-Means Clustering. [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/Clustering/k_means_clustering.ipynb)
 
 **DAY 12**:
-Today I've learned and implemented Hierarchical Clustering. [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/Clustering/k_means_clustering.ipynb)
+Today I've learned and implemented Hierarchical Clustering. [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/Clustering/hierarchical_clustering.ipynb)
