@@ -65,3 +65,7 @@ Today I've learned and implemented K-Means Clustering. [Code](https://github.com
 
 **DAY 12**:
 Today I've learned and implemented Hierarchical Clustering. [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/Clustering/hierarchical_clustering.ipynb)
+
+**DAY 13-20**:
+I've completed the [Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) course on Udemy. I've also completed reading the book "Naked Statistics" by Charles Wheelan.\
+[LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_100daysofmlcode-machinelearning-datascience-activity-6709860943465205760-dFZ6)
