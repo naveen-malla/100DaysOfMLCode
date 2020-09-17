@@ -69,3 +69,6 @@ Today I've learned and implemented Hierarchical Clustering. [Code](https://githu
 **DAY 13-20**:
 I've completed the [Machine Learning A-Z](https://www.udemy.com/course/machinelearning/) course on Udemy. I've also completed reading the book "Naked Statistics" by Charles Wheelan.\
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_100daysofmlcode-machinelearning-datascience-activity-6709860943465205760-dFZ6)
+
+**DAY 21-25**:
+I’ve learned and practiced Numpy, Pandas, and Tensorflow. I’ve also done some basic ML projects like text classification (Fashion MNIST) and text classification (IMDB reviews) based on some youtube tutorials.
