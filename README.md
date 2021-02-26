@@ -74,4 +74,4 @@ I've completed the [Machine Learning A-Z](https://www.udemy.com/course/machinele
 I’ve learned and practiced Numpy, Pandas, and Tensorflow. I’ve also done some basic ML projects like text classification (Fashion MNIST) and text classification (IMDB reviews) based on some youtube tutorials.
 
 **DAY 26**:
-Revised ML course by Andrew NG on coursera. Completed two weeks' content and assignments. Working on optional assignments. [Course Link](https://www.coursera.org/learn/machine-learning)
+Resuming after a break. Revised ML course by Andrew NG on coursera. Completed two weeks' content and assignments. Working on optional assignments. [Course Link](https://www.coursera.org/learn/machine-learning)
