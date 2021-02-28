@@ -75,3 +75,6 @@ I’ve learned and practiced Numpy, Pandas, and Tensorflow. I’ve also done som
 
 **DAY 26**:
 Resuming after a break. Revised ML course by Andrew NG on coursera. Completed two weeks' content and assignments. Working on optional assignments. [Course Link](https://www.coursera.org/learn/machine-learning)
+
+**DAY 27, 28**:
+Completed the optional assignments on Multivariate Cost function, Gradient Descent and Normal equation. Learned and implemented vectorization of cost function and gradient descent for easy coding in octave.
