@@ -78,3 +78,6 @@ Resuming after a break. Revised ML course by Andrew NG on coursera. Completed tw
 
 **DAY 27, 28**:
 Completed the optional assignments on Multivariate Cost function, Gradient Descent and Normal equation. Learned and implemented vectorization of cost function and gradient descent for easy coding in octave.
+
+**DAY 29**:
+Revised concepts of Deep learning. Understood the concept with an example of Demand Prediction of a product.
