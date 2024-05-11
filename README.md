@@ -84,3 +84,6 @@ Revised concepts of Deep learning. Understood the concept with an example of Dem
 
 **DAY 30**:
 Learned how to implement forward propagation in neural networks using numpy.
+
+**DAY 31**:
+Implemented forward propagation using tensorflow and numpy
