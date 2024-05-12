@@ -83,6 +83,9 @@ Completed the optional assignments on Multivariate Cost function, Gradient Desce
 Revised concepts of Deep learning. Understood the concept with an example of Demand Prediction of a product.
 
 **DAY 30**:
+Reviced concepts of Gradient Descent and Back Propagation.
+
+**DAY 30**:
 Learned how to implement forward propagation in neural networks using numpy.
 
 **DAY 31**:
