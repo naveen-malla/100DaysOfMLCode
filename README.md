@@ -90,3 +90,6 @@ Learned how to implement forward propagation in neural networks using numpy.
 
 **DAY 31**:
 Implemented forward propagation using tensorflow and numpy
+
+** DAY 32**:
+Introduction to Multi class regression and softmax function.
