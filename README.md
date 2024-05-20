@@ -91,8 +91,11 @@ Learned how to implement forward propagation in neural networks using numpy.
 **DAY 31**:
 Implemented forward propagation using tensorflow and numpy
 
-** DAY 32**:
+**DAY 32**:
 Introduction to Multi class regression and softmax function.
 
-** DAY 33 **:
+**DAY 33**:
 Got a better and deeper understanding of how Back Propagation works and why it's very important in neural networks.
+
+**DAY 34**:
+Started with GenAI with LLMs course on Coursera. Revised the working of transformer.
