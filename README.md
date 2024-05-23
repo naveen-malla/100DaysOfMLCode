@@ -99,3 +99,6 @@ Got a better and deeper understanding of how Back Propagation works and why it's
 
 **DAY 34**:
 Started with GenAI with LLMs course on Coursera. Revised the working of transformer.
+
+**DAY 35**
+Learned about bias and variance in ML models.
