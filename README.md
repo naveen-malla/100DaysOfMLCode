@@ -105,3 +105,6 @@ Learned about bias and variance in ML models.
 
 **DAY 36**:
 Revised concept of text generation with transformers.
+
+**DAY 37**:
+Revised concept of prompt engineering.
