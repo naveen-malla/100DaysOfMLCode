@@ -108,3 +108,6 @@ Revised concept of text generation with transformers.
 
 **DAY 37**:
 Revised concept of prompt engineering.
+
+**DAY 38**:
+Intro to decison trees.
