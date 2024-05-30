@@ -111,3 +111,6 @@ Revised concept of prompt engineering.
 
 **DAY 38**:
 Intro to decison trees.
+
+**DAY 39**:
+Intro to clustering. 
