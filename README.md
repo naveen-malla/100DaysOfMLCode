@@ -114,3 +114,6 @@ Intro to decison trees.
 
 **DAY 39**:
 Intro to clustering. 
+
+**DAY 40**:
+Learned about K-means clustering. 
