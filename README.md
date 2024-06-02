@@ -117,3 +117,6 @@ Intro to clustering.
 
 **DAY 40**:
 Learned about K-means clustering. 
+
+**DAY 41**:
+Learned about optimising K-means algorithm.
