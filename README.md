@@ -120,3 +120,6 @@ Learned about K-means clustering.
 
 **DAY 41**:
 Learned about optimising K-means algorithm.
+
+**DAY 42**:
+Experimented with prompt engineering.
