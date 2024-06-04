@@ -123,3 +123,6 @@ Learned about optimising K-means algorithm.
 
 **DAY 42**:
 Experimented with prompt engineering.
+
+**DAY 43**:
+Introduction to anamoly detection. 
