@@ -125,4 +125,7 @@ Learned about optimising K-means algorithm.
 Experimented with prompt engineering.
 
 **DAY 43**:
-Introduction to anamoly detection. 
+Introduction to anamoly detection.
+
+**DAY 44**:
+Revised concept of Normal distribution.
