@@ -129,3 +129,6 @@ Introduction to anamoly detection.
 
 **DAY 44**:
 Revised concept of Normal distribution.
+
+**DAY 45**:
+Learned to build Anamoly detection algorithm. 
