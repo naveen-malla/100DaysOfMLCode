@@ -132,3 +132,6 @@ Revised concept of Normal distribution.
 
 **DAY 45**:
 Learned to build Anamoly detection algorithm. 
+
+**DAY 46**:
+Learned the difference between Anamoly detection vs supervised learning and choosing features.
