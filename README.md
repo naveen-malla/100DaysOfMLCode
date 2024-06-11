@@ -138,3 +138,6 @@ Learned the difference between Anamoly detection vs supervised learning and choo
 
 **DAY 47**:
 Introduction to Recommender Systems.
+
+**DAY 48**:
+Learned about collaborative filterng and implementing Recommender systems using tensorflow. 
