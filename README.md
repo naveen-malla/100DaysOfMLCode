@@ -141,3 +141,6 @@ Introduction to Recommender Systems.
 
 **DAY 48**:
 Learned about collaborative filterng and implementing Recommender systems using tensorflow. 
+
+*DAY 49**:
+Learner the differences between Collaborative filtering and Content baded filtering. 
