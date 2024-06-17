@@ -147,3 +147,6 @@ Learned the differences between Collaborative filtering and Content baded filter
 
 **DAY 50**:
 Learned implementation of Collaborative filtering using neural networks and with tensor flow. 
+
+**DAY 51**:
+Learned the concept and implementation of PCA. 
