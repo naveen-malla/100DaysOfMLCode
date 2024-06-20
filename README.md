@@ -150,3 +150,6 @@ Learned implementation of Collaborative filtering using neural networks and with
 
 **DAY 51**:
 Learned the concept and implementation of PCA. 
+
+**DAY 52**:
+Reviewed reinforcement learning and learned about state action value function with example of a rover landing on moon.
