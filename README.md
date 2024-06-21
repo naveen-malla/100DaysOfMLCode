@@ -153,3 +153,6 @@ Learned the concept and implementation of PCA.
 
 **DAY 52**:
 Reviewed reinforcement learning and learned about state action value function with example of a rover landing on moon.
+
+**DAY 53**:
+Introduction to reinforcement learning with human feedback for LLMs.
