@@ -156,3 +156,6 @@ Reviewed reinforcement learning and learned about state action value function wi
 
 **DAY 53**:
 Introduction to reinforcement learning with human feedback for LLMs.
+
+**DAY 54**:
+Learned about variational graph auto encoders. 
