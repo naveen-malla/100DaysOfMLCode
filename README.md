@@ -161,4 +161,7 @@ Introduction to reinforcement learning with human feedback for LLMs.
 Learned about variational graph auto encoders. 
 
 **DAY 55**:
-Learner about VAEs vs VGAEs. 
+Learned about VAEs vs VGAEs. 
+
+**DAY 56**:
+Learned about techniques used to get better accuracy on ML models. 
