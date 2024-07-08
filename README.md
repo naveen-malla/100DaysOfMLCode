@@ -165,3 +165,6 @@ Learned about VAEs vs VGAEs.
 
 **DAY 56**:
 Learned about techniques used to get better accuracy on ML models. 
+
+**DAY 57**:
+Learning about data imputation techniques. 
