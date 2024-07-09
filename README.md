@@ -167,4 +167,7 @@ Learned about VAEs vs VGAEs.
 Learned about techniques used to get better accuracy on ML models. 
 
 **DAY 57**:
-Learning about data imputation techniques. 
+Learned about data imputation techniques. 
+
+**DAY 58**:
+Explorer various feature engineering techniques. 
