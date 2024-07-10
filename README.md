@@ -171,3 +171,6 @@ Learned about data imputation techniques.
 
 **DAY 58**:
 Explorer various feature engineering techniques. 
+
+**DAY 59**:
+Worked on Digit recognizer.  
