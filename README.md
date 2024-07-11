@@ -174,3 +174,6 @@ Explorer various feature engineering techniques.
 
 **DAY 59**:
 Worked on Digit recognizer.  
+
+**DAY 60**:
+Learned about fine tuning LLMs.
