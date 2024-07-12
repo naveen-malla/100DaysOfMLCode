@@ -177,3 +177,6 @@ Worked on Digit recognizer.
 
 **DAY 60**:
 Learned about fine tuning LLMs.
+
+**DAY 61**:
+Learned about dealing with imbalanced datasets. 
