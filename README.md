@@ -180,3 +180,6 @@ Learned about fine tuning LLMs.
 
 **DAY 61**:
 Learned about dealing with imbalanced datasets. 
+
+**DAY 62**:
+Introduction to AutoML. 
