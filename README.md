@@ -183,3 +183,6 @@ Learned about dealing with imbalanced datasets.
 
 **DAY 62**:
 Introduction to AutoML. 
+
+**DAY 63**:
+Worked on digit recognition. 
