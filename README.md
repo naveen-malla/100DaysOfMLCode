@@ -186,3 +186,6 @@ Introduction to AutoML.
 
 **DAY 63**:
 Worked on digit recognition. 
+
+**DAY 64**:
+Revised multi head attention concept with calculation. 
