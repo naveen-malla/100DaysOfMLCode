@@ -189,3 +189,6 @@ Worked on digit recognition.
 
 **DAY 64**:
 Revised multi head attention concept with calculation. 
+
+**DAY 67**:
+Learned about ways to enhance nueral network trainings with methods like Batch Normalization and so. 
