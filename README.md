@@ -191,7 +191,10 @@ Worked on digit recognition.
 Revised multi head attention concept with calculation. 
 
 **DAY 65**:
+Learned about ways to enhance nueral network trainings with methods like Batch Normalization and so. 
+
+**DAY 66**:
 Revised some interesting pandas methods. 
 
 **DAY 67**:
-Learned about ways to enhance nueral network trainings with methods like Batch Normalization and so. 
+Learned about some interesting python libraries like pydantic, hypothesis, etc.
