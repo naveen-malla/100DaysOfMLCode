@@ -198,3 +198,6 @@ Revised some interesting pandas methods.
 
 **DAY 67**:
 Learned about some interesting python libraries like pydantic, hypothesis, etc.
+
+**DAY 68**:
+Learned about time series forecasting and methods to implement it.
