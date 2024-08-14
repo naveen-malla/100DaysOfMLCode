@@ -201,3 +201,6 @@ Learned about some interesting python libraries like pydantic, hypothesis, etc.
 
 **DAY 68**:
 Learned about time series forecasting and methods to implement it.
+
+**DAY 69**:
+Tips about reading research papers and learned to use Jupyter better with extensions
