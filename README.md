@@ -207,3 +207,6 @@ Tips about reading research papers and learned to use Jupyter better with extens
 
 **DAY 70**:
 Active Learning strategies 
+
+**DAY 71**:
+Explored the code for the project "Predicting Credit Card Approvals using Machine Learning"
