@@ -210,3 +210,6 @@ Active Learning strategies
 
 **DAY 71**:
 Explored the code for the project "Predicting Credit Card Approvals using Machine Learning"
+
+**DAY 72**:
+Explored ways to fill missing data with Python. 
