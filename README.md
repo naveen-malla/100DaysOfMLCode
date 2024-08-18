@@ -213,3 +213,6 @@ Explored the code for the project "Predicting Credit Card Approvals using Machin
 
 **DAY 72**:
 Explored ways to fill missing data with Python. 
+
+**DAY 73**:
+Explored the concept of uplift modelling.  
