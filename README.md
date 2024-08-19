@@ -216,3 +216,6 @@ Explored ways to fill missing data with Python.
 
 **DAY 73**:
 Explored the concept of uplift modelling.  
+
+**DAY 74**:
+Explored Visualizations in Multivariate cases. 
