@@ -219,3 +219,6 @@ Explored the concept of uplift modelling.
 
 **DAY 74**:
 Explored Visualizations in Multivariate cases. 
+
+**DAY 75**:
+Explored Neural Network embeddings and visualizations. 
