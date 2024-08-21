@@ -222,3 +222,6 @@ Explored Visualizations in Multivariate cases.
 
 **DAY 75**:
 Explored Neural Network embeddings and visualizations. 
+
+**DAY 76**:
+Explored the process of installing Hugging face transformers. 
