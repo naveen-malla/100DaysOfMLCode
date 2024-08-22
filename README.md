@@ -225,3 +225,6 @@ Explored Neural Network embeddings and visualizations.
 
 **DAY 76**:
 Explored the process of installing Hugging face transformers. 
+
+**DAY 77**:
+Read medium article on Churn Analysis. 
