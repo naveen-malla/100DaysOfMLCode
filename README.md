@@ -228,3 +228,6 @@ Explored the process of installing Hugging face transformers.
 
 **DAY 77**:
 Read medium article on Churn Analysis. 
+
+**DAY 78**:
+Read medium article on analysing and calculating p-value. 
