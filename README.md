@@ -231,3 +231,6 @@ Read medium article on Churn Analysis.
 
 **DAY 78**:
 Read medium article on analysing and calculating p-value. 
+
+**DAY 79**:
+Read medium article on NLP RELIC
