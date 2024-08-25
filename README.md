@@ -234,3 +234,6 @@ Read medium article on analysing and calculating p-value.
 
 **DAY 79**:
 Read medium article on NLP RELIC
+
+**DAY 80**:
+Read medium article about Plotly and using it for creating interactive visualizations. 
