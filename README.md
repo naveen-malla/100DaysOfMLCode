@@ -237,3 +237,6 @@ Read medium article on NLP RELIC
 
 **DAY 80**:
 Read medium article about Plotly and using it for creating interactive visualizations. 
+
+**DAY 81**:
+Read medium article about scraping linkedin profiles and using Langchain. 
