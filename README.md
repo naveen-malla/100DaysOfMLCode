@@ -240,3 +240,6 @@ Read medium article about Plotly and using it for creating interactive visualiza
 
 **DAY 81**:
 Read medium article about scraping linkedin profiles and using Langchain. 
+
+**DAY 82**:
+Read medium article about EDA. 
