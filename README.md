@@ -243,3 +243,6 @@ Read medium article about scraping linkedin profiles and using Langchain.
 
 **DAY 82**:
 Read medium article about EDA. 
+
+**DAY 83**:
+Read medium article about Grokking. 
