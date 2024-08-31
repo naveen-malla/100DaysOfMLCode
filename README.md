@@ -252,3 +252,6 @@ Read medium article about Data imputation.
 
 **DAY 85**:
 Read Medium article about Decision tree classifier. 
+
+**DAY 86**:
+Read Medium article about Time series forecasting with Transformers. 
