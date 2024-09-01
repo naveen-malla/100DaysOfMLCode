@@ -255,3 +255,6 @@ Read Medium article about Decision tree classifier.
 
 **DAY 86**:
 Read Medium article about Time series forecasting with Transformers. 
+
+**DAY 87**:
+Read Medium article about using Pyspark for data analysis. 
