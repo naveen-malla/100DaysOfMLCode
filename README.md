@@ -258,3 +258,6 @@ Read Medium article about Time series forecasting with Transformers.
 
 **DAY 87**:
 Read Medium article about using Pyspark for data analysis. 
+
+**DAY 88**:
+Read Medium article about Time Series Forecasting with TimeMixer. 
