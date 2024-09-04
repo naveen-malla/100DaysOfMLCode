@@ -261,3 +261,6 @@ Read Medium article about using Pyspark for data analysis.
 
 **DAY 88**:
 Read Medium article about Time Series Forecasting with TimeMixer. 
+
+**DAY 89**:
+Read Medium article on Deploying Machine learning model. 
