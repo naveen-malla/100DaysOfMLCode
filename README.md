@@ -264,3 +264,6 @@ Read Medium article about Time Series Forecasting with TimeMixer.
 
 **DAY 89**:
 Read Medium article on Deploying Machine learning model. 
+
+*DAY 90**:
+Read Medium article on Scaling Numerical features. 
