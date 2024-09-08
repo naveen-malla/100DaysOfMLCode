@@ -270,3 +270,6 @@ Read Medium article on Scaling Numerical features.
 
 **DAY 91**:
 Read Medium article on Sarcasm detection with NLP. 
+
+**DAY 92**:
+Followed turorial on trend detection on Kaggle. 
