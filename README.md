@@ -276,3 +276,6 @@ Followed turorial on trend detection on Kaggle.
 
 **DAY 93**:
 Followed turorial on trend detection on Kaggle. 
+
+**DAY 94**:
+Followed turorial on trend detection on Kaggle.
