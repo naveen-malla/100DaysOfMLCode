@@ -273,3 +273,6 @@ Read Medium article on Sarcasm detection with NLP.
 
 **DAY 92**:
 Followed turorial on trend detection on Kaggle. 
+
+**DAY 93**:
+Followed turorial on trend detection on Kaggle. 
