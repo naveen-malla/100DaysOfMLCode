@@ -279,3 +279,6 @@ Followed turorial on trend detection on Kaggle.
 
 **DAY 94**:
 Followed turorial on trend detection on Kaggle. 
+
+**DAY 95**:
+Read Medium article on Cleaning the data for NLP tasks.
