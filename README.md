@@ -285,3 +285,6 @@ Read Medium article on Cleaning the data for NLP tasks.
 
 **DAY 96**:
 Did Exercise on Time series forecasting on kaggle.
+
+**DAY 97**:
+Read Medium article on GPU requirements for LLMs. 
