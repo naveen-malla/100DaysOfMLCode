@@ -288,3 +288,6 @@ Did Exercise on Time series forecasting on kaggle.
 
 **DAY 97**:
 Read Medium article on GPU requirements for LLMs. 
+
+**DAY 98**:
+Read Medium article on Hybrid Classifiers in Time Series
