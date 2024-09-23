@@ -295,3 +295,6 @@ Read Medium article on Hybrid Classifiers in Time Series.
 **DAY 99**:
 Read Medium article on Stacking with ensemble models. 
 
+**DAY 100**:
+Read Medium article on ensemble methods. 
+
