@@ -301,3 +301,6 @@ Read Medium article on ensemble methods.
 **DAY 101**:
 Read Medium arricle on automated feature engineering with featuretools. 
 
+**DAY 102**:
+Read Medium article on stacking ml methods. 
+
