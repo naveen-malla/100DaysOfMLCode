@@ -307,3 +307,5 @@ Read Medium article on stacking ml methods.
 **DAY 103**:
 Read Medium article on implementing transformers with pytorch. 
 
+**DAY 104**:
+Read Medium article on K-L Divergence. 
