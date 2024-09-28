@@ -309,3 +309,6 @@ Read Medium article on implementing transformers with pytorch.
 
 **DAY 104**:
 Read Medium article on K-L Divergence. 
+
+**DAY 105**:
+Read Medium article on feature engineering. 
