@@ -312,3 +312,6 @@ Read Medium article on K-L Divergence.
 
 **DAY 105**:
 Read Medium article on feature engineering. 
+
+**DAY 106**:
+Did exercise on Time series forecasting on Kaggle. 
