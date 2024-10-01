@@ -315,3 +315,6 @@ Read Medium article on feature engineering.
 
 **DAY 106**:
 Did exercise on Time series forecasting on Kaggle. 
+
+**DAY 107**:
+Studied K fold and stratified validation. 
