@@ -318,3 +318,6 @@ Did exercise on Time series forecasting on Kaggle.
 
 **DAY 107**:
 Studied K fold and stratified validation. 
+
+*DAY 108**:
+Read Medium article on implementing PCA. 
