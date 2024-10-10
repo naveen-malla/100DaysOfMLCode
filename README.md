@@ -326,4 +326,7 @@ Read Medium article on implementing PCA.
 Read Medium article comparing Linear Regression, XG-Boost and Gaussian Preditions.
 
 **DAY 110**:
-Read Medium article about P values. 
+Read Medium article about P values.
+
+**DAY 111**:
+Read Medium article about Classification project. 
