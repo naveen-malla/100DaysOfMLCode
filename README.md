@@ -330,3 +330,6 @@ Read Medium article about P values.
 
 **DAY 111**:
 Read Medium article about Classification project. 
+
+**DAY 112**:
+Read Medium article about Boltzmann Machines.
