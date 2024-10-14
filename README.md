@@ -333,3 +333,6 @@ Read Medium article about Classification project.
 
 **DAY 112**:
 Read Medium article about Boltzmann Machines.
+
+**DAY 113**:
+Read Medium article on San fransisco crime classification EDA. 
