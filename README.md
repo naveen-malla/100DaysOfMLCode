@@ -336,3 +336,6 @@ Read Medium article about Boltzmann Machines.
 
 **DAY 113**:
 Read Medium article on San fransisco crime classification EDA. 
+
+**DAY 114**:
+Read Medium article on dockerizing machine learning model. 
