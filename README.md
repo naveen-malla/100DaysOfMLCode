@@ -339,3 +339,6 @@ Read Medium article on San fransisco crime classification EDA.
 
 **DAY 114**:
 Read Medium article on dockerizing machine learning model. 
+
+**DAY 15**:
+Read Medium article on SQL functions for data analysis. 
