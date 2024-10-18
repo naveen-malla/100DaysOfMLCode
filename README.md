@@ -340,5 +340,8 @@ Read Medium article on San fransisco crime classification EDA.
 **DAY 114**:
 Read Medium article on dockerizing machine learning model. 
 
-**DAY 15**:
+**DAY 115**:
 Read Medium article on SQL functions for data analysis. 
+
+**DAY 116**:
+Read Medium article on running LLAMA on local machine. 
