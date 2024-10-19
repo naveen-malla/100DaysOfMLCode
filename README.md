@@ -345,3 +345,6 @@ Read Medium article on SQL functions for data analysis.
 
 **DAY 116**:
 Read Medium article on running LLAMA on local machine. 
+
+**DAY 117**:
+Read Medium article on A/B testing in Data Science
