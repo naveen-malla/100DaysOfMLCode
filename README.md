@@ -348,3 +348,6 @@ Read Medium article on running LLAMA on local machine.
 
 **DAY 117**:
 Read Medium article on A/B testing in Data Science
+
+**DAY 118**:
+Worked on San Francisco crime dataset challenge on kaggle. 
