@@ -351,3 +351,6 @@ Read Medium article on A/B testing in Data Science
 
 **DAY 118**:
 Worked on San Francisco crime dataset challenge on kaggle. 
+
+**DAY 119**:
+Read Medium article on deploying ML models with docker. 
