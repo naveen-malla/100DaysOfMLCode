@@ -354,3 +354,6 @@ Worked on San Francisco crime dataset challenge on kaggle.
 
 **DAY 119**:
 Read Medium article on deploying ML models with docker. 
+
+**DAY 120**:
+Read Medium article on SMOTE
