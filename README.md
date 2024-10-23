@@ -357,3 +357,6 @@ Read Medium article on deploying ML models with docker.
 
 **DAY 120**:
 Read Medium article on SMOTE
+
+**DAY 121**:
+Read Medium article on Thompson Sampling and one arm bandit. 
