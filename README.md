@@ -360,3 +360,6 @@ Read Medium article on SMOTE
 
 **DAY 121**:
 Read Medium article on Thompson Sampling and one arm bandit. 
+
+**DAY 122**:
+Read Medium article on Logistic Regression. 
