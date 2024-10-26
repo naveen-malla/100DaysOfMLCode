@@ -363,3 +363,6 @@ Read Medium article on Thompson Sampling and one arm bandit.
 
 **DAY 122**:
 Read Medium article on Logistic Regression. 
+
+**DAY 123**:
+Read Medium article on Downloading amd transcribing Youtube Videos. 
