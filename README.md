@@ -366,3 +366,6 @@ Read Medium article on Logistic Regression.
 
 **DAY 123**:
 Read Medium article on Downloading amd transcribing Youtube Videos. 
+
+**DAY 124**:
+Read Medium article on Featuretools. 
