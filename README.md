@@ -369,3 +369,6 @@ Read Medium article on Downloading amd transcribing Youtube Videos.
 
 **DAY 124**:
 Read Medium article on Featuretools. 
+
+**DAY 125**:
+Read Medium article on ARIMA. 
