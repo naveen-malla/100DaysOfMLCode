@@ -372,3 +372,6 @@ Read Medium article on Featuretools.
 
 **DAY 125**:
 Read Medium article on ARIMA. 
+
+**DAY 126**:
+Read Medium article on using LLMs and Retrieval Augmented Classification for classification tasks. 
