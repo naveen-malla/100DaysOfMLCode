@@ -378,3 +378,6 @@ Read Medium article on using LLMs and Retrieval Augmented Classification for cla
 
 **DAY 127**:
 Revised several data science concepts. 
+
+**DAY 128**:
+Revised different types of Classification algorithms. 
