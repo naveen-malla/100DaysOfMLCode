@@ -381,3 +381,6 @@ Revised several data science concepts.
 
 **DAY 128**:
 Revised different types of Classification algorithms. 
+
+**DAY 129**:
+Read Medium article on Latest research papers on Machine Learning. 
