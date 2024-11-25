@@ -384,3 +384,6 @@ Revised different types of Classification algorithms.
 
 **DAY 129**:
 Read Medium article on Latest research papers on Machine Learning. 
+
+**DAY 130**:
+Read Medium article about Movie reccomender system 
