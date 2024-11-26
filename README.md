@@ -387,3 +387,6 @@ Read Medium article on Latest research papers on Machine Learning.
 
 **DAY 130**:
 Read Medium article about Movie reccomender system 
+
+**DAY 131**:
+Read Medium article about addressing missing data. 
