@@ -390,3 +390,6 @@ Read Medium article about Movie reccomender system
 
 **DAY 131**:
 Read Medium article about addressing missing data. 
+
+**DAY 132**:
+Read Medium article about Bayesian Inference. 
