@@ -393,3 +393,6 @@ Read Medium article about addressing missing data.
 
 **DAY 132**:
 Read Medium article about Bayesian Inference. 
+
+**DAY 133**:
+Read Medium article on fitting the best machine learning model 
