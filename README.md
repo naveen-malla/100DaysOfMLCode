@@ -396,3 +396,6 @@ Read Medium article about Bayesian Inference.
 
 **DAY 133**:
 Read Medium article on fitting the best machine learning model 
+
+**DAY 134**:
+Read Medium article on Customer segmentation 
