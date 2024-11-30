@@ -399,3 +399,6 @@ Read Medium article on fitting the best machine learning model
 
 **DAY 134**:
 Read Medium article on Customer segmentation 
+
+**DAY 135**:
+Read Medium article on RAG and embedding models. 
