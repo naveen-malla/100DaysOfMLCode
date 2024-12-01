@@ -402,3 +402,6 @@ Read Medium article on Customer segmentation
 
 **DAY 135**:
 Read Medium article on RAG and embedding models. 
+
+**DAY 136**:
+Read Medium article on Machine Learning project lifecycle
