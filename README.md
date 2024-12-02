@@ -405,3 +405,6 @@ Read Medium article on RAG and embedding models.
 
 **DAY 136**:
 Read Medium article on Machine Learning project lifecycle
+
+**DAY 137**:
+Read Medium article on Metrics in Machine Learning 
