@@ -408,3 +408,6 @@ Read Medium article on Machine Learning project lifecycle
 
 **DAY 137**:
 Read Medium article on Metrics in Machine Learning 
+
+**DAY 138**:
+Read Medium article on Supermarket sales project
