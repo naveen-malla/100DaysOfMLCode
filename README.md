@@ -411,3 +411,6 @@ Read Medium article on Metrics in Machine Learning
 
 **DAY 138**:
 Read Medium article on Supermarket sales project
+
+**DAY 139**:
+Read Medium article on AI stack in current world
