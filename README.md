@@ -417,3 +417,6 @@ Read Medium article on AI stack in current world
 
 **DAY 140**:
 Read Medium article on EDA using the library ydata-profiling. 
+
+**DAY 141**:
+Read Medium article on using different Pandas functions
