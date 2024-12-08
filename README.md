@@ -420,3 +420,6 @@ Read Medium article on EDA using the library ydata-profiling.
 
 **DAY 141**:
 Read Medium article on using different Pandas functions
+
+**DAY 142**:
+Read Medium article on PyCaret library. 
