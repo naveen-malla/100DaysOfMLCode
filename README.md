@@ -422,4 +422,7 @@ Read Medium article on EDA using the library ydata-profiling.
 Read Medium article on using different Pandas functions
 
 **DAY 142**:
-Read Medium article on PyCaret library. 
+Read Medium article on PyCaret library.
+
+**DAY 143**:
+Read Medium article on Dynamic RAG.  
