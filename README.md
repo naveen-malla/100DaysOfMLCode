@@ -426,3 +426,6 @@ Read Medium article on PyCaret library.
 
 **DAY 143**:
 Read Medium article on Dynamic RAG.  
+
+**DAY 144**:
+Read Medium article on important Machine Learning Models. 
