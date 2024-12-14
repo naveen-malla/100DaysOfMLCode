@@ -429,3 +429,6 @@ Read Medium article on Dynamic RAG.
 
 **DAY 144**:
 Read Medium article on important Machine Learning Models. 
+
+**DAY 145**:
+Read Medium article on XGBoost algo. 
