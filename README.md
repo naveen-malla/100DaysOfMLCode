@@ -432,3 +432,6 @@ Read Medium article on important Machine Learning Models.
 
 **DAY 145**:
 Read Medium article on XGBoost algo. 
+
+**DAY 146**:
+Read Medium article on Tensorflow vs PyCharm 
