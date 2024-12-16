@@ -435,3 +435,6 @@ Read Medium article on XGBoost algo.
 
 **DAY 146**:
 Read Medium article on Tensorflow vs PyCharm 
+
+**DAY 147**:
+Read Medium article on Lifecycle of an ML Model
