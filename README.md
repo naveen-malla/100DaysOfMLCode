@@ -438,3 +438,6 @@ Read Medium article on Tensorflow vs PyCharm
 
 **DAY 147**:
 Read Medium article on Lifecycle of an ML Model
+
+**DAY 148**:
+Read Medium article on Bagging and Boosting. 
