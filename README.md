@@ -444,3 +444,6 @@ Read Medium article on Bagging and Boosting.
 
 **DAY 149**:
 Read Medium article on comparing classification models. 
+
+**DAY 150**:
+Read Medium article on Bayes Theorem 
