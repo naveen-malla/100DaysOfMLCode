@@ -447,3 +447,6 @@ Read Medium article on comparing classification models.
 
 **DAY 150**:
 Read Medium article on Bayes Theorem 
+
+**DAY 151**:
+Read Medium article on SHAP 
