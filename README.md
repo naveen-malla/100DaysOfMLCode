@@ -450,3 +450,6 @@ Read Medium article on Bayes Theorem
 
 **DAY 151**:
 Read Medium article on SHAP 
+
+**DAY 152**:
+Read Medium article on Low Rank Transformations of LLM
