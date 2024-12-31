@@ -456,3 +456,6 @@ Read Medium article on Low Rank Transformations of LLM
 
 **DAY 153**:
 Read Medium article on Fine Tuning LLMs
+
+**DAY 154**:
+Read Medium article on PCA
