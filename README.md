@@ -462,3 +462,6 @@ Read Medium article on PCA
 
 **DAY 155**:
 Read Medium article on Python libraries for AI tasks
+
+**DAY 156**:
+Read Medium article on using FRONNI library for calculating performance metrics
