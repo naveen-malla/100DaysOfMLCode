@@ -465,3 +465,6 @@ Read Medium article on Python libraries for AI tasks
 
 **DAY 156**:
 Read Medium article on using FRONNI library for calculating performance metrics
+
+**DAY 157**:
+Read Medium article on using sklearn pipelines
