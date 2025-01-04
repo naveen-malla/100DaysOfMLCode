@@ -468,3 +468,6 @@ Read Medium article on using FRONNI library for calculating performance metrics
 
 **DAY 157**:
 Read Medium article on using sklearn pipelines
+
+**DAY 158**:
+Read Medium article on logistic regression
