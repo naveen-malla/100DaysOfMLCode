@@ -471,3 +471,6 @@ Read Medium article on using sklearn pipelines
 
 **DAY 158**:
 Read Medium article on logistic regression
+
+**DAY 159**:
+Read Medium article on Model Calibration. 
