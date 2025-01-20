@@ -474,3 +474,6 @@ Read Medium article on logistic regression
 
 **DAY 159**:
 Read Medium article on Model Calibration. 
+
+**DAY 160**:
+Read Medium article on Fine Tuning Llama with Lora
