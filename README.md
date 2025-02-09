@@ -480,3 +480,6 @@ Read Medium article on Fine Tuning Llama with Lora
 
 **DAY 161**:
 Read Medium article on training Deepseek R1 and GRPO method. 
+
+**DAY 162**:
+Read Medium article on Anthropic using 2 classifier models along with the main llm to make it unbreakable. 
