@@ -483,3 +483,6 @@ Read Medium article on training Deepseek R1 and GRPO method.
 
 **DAY 162**:
 Read Medium article on Anthropic using 2 classifier models along with the main llm to make it unbreakable. 
+
+**DAY 163**:
+Read Medium article on fine tuning flux model on our images. 
