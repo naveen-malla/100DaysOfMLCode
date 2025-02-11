@@ -486,3 +486,6 @@ Read Medium article on Anthropic using 2 classifier models along with the main l
 
 **DAY 163**:
 Read Medium article on fine tuning flux model on our images. 
+
+**DAY 164**:
+Read Medium article on statistical methods in data science. 
