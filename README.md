@@ -489,3 +489,6 @@ Read Medium article on fine tuning flux model on our images.
 
 **DAY 164**:
 Read Medium article on statistical methods in data science. 
+
+**DAY 165**:
+Read Medium article on training reasoning models like o1 and R1. 
