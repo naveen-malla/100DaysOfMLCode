@@ -495,3 +495,6 @@ Read Medium article on training reasoning models like o1 and R1.
 
 **DAY 166**:
 Read Medium article on better looking plots for data visualizations. 
+
+**DAY 167**:
+Read Medium article on making better looking bar plots. 
