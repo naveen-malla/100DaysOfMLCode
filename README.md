@@ -498,3 +498,6 @@ Read Medium article on better looking plots for data visualizations.
 
 **DAY 167**:
 Read Medium article on making better looking bar plots. 
+
+**DAY 168**:
+Read Medium article on Agentic Reasoning. 
