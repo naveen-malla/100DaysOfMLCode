@@ -502,4 +502,6 @@ Read Medium article on making better looking bar plots.
 **DAY 168**:
 Read Medium article on Agentic Reasoning. 
 
+**DAY 169**:
+Read Medium article on KAG. 
 Read Medium article on python libraries. 
