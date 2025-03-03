@@ -510,3 +510,6 @@ Read Medium article on python libraries.
 
 **DAY 171**:
 Read Medium article on MLFlow 
+
+**DAY 172**:
+Read Medium article on myths of AI
