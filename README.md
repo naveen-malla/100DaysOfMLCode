@@ -513,3 +513,6 @@ Read Medium article on MLFlow
 
 **DAY 172**:
 Read Medium article on myths of AI
+
+**DAY 173**:
+Read Medium article on data analytics using different charts. 
