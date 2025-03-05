@@ -516,3 +516,6 @@ Read Medium article on myths of AI
 
 **DAY 173**:
 Read Medium article on data analytics using different charts. 
+
+**DAY 174**:
+Read Medium article on Bootstrapping Bagging and Boosting. 
