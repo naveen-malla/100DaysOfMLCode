@@ -519,3 +519,6 @@ Read Medium article on data analytics using different charts.
 
 **DAY 174**:
 Read Medium article on Bootstrapping Bagging and Boosting. 
+
+**DAY 175**:
+Read Medium article on Large Concept Models. 
