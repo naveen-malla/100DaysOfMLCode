@@ -522,3 +522,6 @@ Read Medium article on Bootstrapping Bagging and Boosting.
 
 **DAY 175**:
 Read Medium article on Large Concept Models. 
+
+**DAY 176**:
+Read Medium article on CNN vs ANN
