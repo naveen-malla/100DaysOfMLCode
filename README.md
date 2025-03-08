@@ -525,3 +525,6 @@ Read Medium article on Large Concept Models.
 
 **DAY 176**:
 Read Medium article on CNN vs ANN
+
+**DAY 177**:
+Read Medium article on Chain of Draft prompting. 
