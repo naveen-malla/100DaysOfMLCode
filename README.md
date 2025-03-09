@@ -528,3 +528,6 @@ Read Medium article on CNN vs ANN
 
 **DAY 177**:
 Read Medium article on Chain of Draft prompting. 
+
+**DAY 178**:
+Read Medium article on Gittok.dev 
