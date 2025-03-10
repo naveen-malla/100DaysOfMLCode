@@ -531,3 +531,6 @@ Read Medium article on Chain of Draft prompting.
 
 **DAY 178**:
 Read Medium article on Gittok.dev 
+
+**DAY 179**:
+Read Medium article on MLOps
