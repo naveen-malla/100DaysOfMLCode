@@ -534,3 +534,6 @@ Read Medium article on Gittok.dev
 
 **DAY 179**:
 Read Medium article on MLOps
+
+**DAY 180**:
+Read Medium article on Python production code practices. 
