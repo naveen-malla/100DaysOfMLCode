@@ -540,3 +540,6 @@ Read Medium article on Python production code practices.
 
 **DAY 181**:
 Researched on PHDs
+
+**DAY 182**:
+Read Medium article on Data Analysis. Learned about a very interesting chart called sunburst chart. 
