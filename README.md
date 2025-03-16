@@ -543,3 +543,6 @@ Researched on PHDs
 
 **DAY 182**:
 Read Medium article on Data Analysis. Learned about a very interesting chart called sunburst chart. 
+
+**DAY 183**:
+Read about Manus AI agent. 
