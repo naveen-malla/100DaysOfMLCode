@@ -546,3 +546,6 @@ Read Medium article on Data Analysis. Learned about a very interesting chart cal
 
 **DAY 183**:
 Read about Manus AI agent. 
+
+**DAY 184**:
+Read about AI Engineering: Prompting. 
