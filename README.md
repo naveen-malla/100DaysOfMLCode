@@ -556,3 +556,5 @@ Read about AI Engineering: RAG.
 **DAY 185**:
 Read about AI Engineering: Agents. 
 
+**DAY 186**:
+Read about using LLMs and RAGs with CBR for a phd role. 
