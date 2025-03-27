@@ -558,3 +558,6 @@ Read about AI Engineering: Agents.
 
 **DAY 186**:
 Read about using LLMs and RAGs with CBR for a phd role. 
+
+**DAY 187**:
+Read more about LLMs and RAGs with CBR
