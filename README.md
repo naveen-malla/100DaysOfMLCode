@@ -561,3 +561,6 @@ Read about using LLMs and RAGs with CBR for a phd role.
 
 **DAY 187**:
 Read more about LLMs and RAGs with CBR
+
+**DAY 188**:
+READ THE PAPER AGAIN. GAVE INTERVIEW. GOT PHD GRANT. 
