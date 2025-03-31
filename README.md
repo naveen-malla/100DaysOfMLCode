@@ -564,3 +564,6 @@ Read more about LLMs and RAGs with CBR
 
 **DAY 188**:
 READ THE PAPER AGAIN. GAVE INTERVIEW. GOT PHD GRANT. 
+
+**DAY 189**:
+Read medium article on building audience on medium. 
