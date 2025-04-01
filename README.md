@@ -567,3 +567,6 @@ READ THE PAPER AGAIN. GAVE INTERVIEW. GOT PHD GRANT.
 
 **DAY 189**:
 Read medium article on building audience on medium. 
+
+**DAY 190**:
+Did Kaggle GenAI intensive course day 1: Prompting. 
