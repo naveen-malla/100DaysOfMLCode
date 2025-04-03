@@ -570,3 +570,6 @@ Read medium article on building audience on medium.
 
 **DAY 190**:
 Did Kaggle GenAI intensive course day 1: Prompting. 
+
+**DAY 191**:
+Skimmed medium article about AI Engineering.
