@@ -573,3 +573,6 @@ Did Kaggle GenAI intensive course day 1: Prompting.
 
 **DAY 191**:
 Skimmed medium article about AI Engineering.
+
+**DAY 192**:
+Read about tech behind GPT4o's native image generation.  
