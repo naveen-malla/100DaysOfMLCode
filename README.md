@@ -576,3 +576,6 @@ Skimmed medium article about AI Engineering.
 
 **DAY 192**:
 Read about tech behind GPT4o's native image generation.  
+
+**DAY 192**:
+Read the research paper on GPT4o's native image generation.  
