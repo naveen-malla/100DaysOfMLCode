@@ -579,3 +579,6 @@ Read about tech behind GPT4o's native image generation.
 
 **DAY 192**:
 Read the research paper on GPT4o's native image generation.  
+
+**Day 193**:
+Read Medium article on Anatomy of LLMs. how they neuron firing happens when they predict the next work. Fascinating   
