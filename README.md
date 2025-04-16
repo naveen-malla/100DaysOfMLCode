@@ -588,3 +588,6 @@ Read Medium article on Google Data Science agent.
 
 **DAY 195**:
 Read Medium article on Google A2A agent protocol and about a python library called Python A2A. Very interesting read. 
+
+**DAY 196**:
+Read Medium article on using Gpt4o for different image generation use cases. 
