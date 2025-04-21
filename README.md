@@ -591,3 +591,6 @@ Read Medium article on Google A2A agent protocol and about a python library call
 
 **DAY 196**:
 Read Medium article on using Gpt4o for different image generation use cases. 
+
+**DAY 197**:
+Read Medium article on usinf different RAG techniques. 
