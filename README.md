@@ -594,3 +594,6 @@ Read Medium article on using Gpt4o for different image generation use cases.
 
 **DAY 197**:
 Read Medium article on usinf different RAG techniques. 
+
+**DAY 198**:
+Read Medium article on Open Source Ai agents stack amd tools. 
