@@ -10,7 +10,7 @@ Today I've learned about Data Preprocessing:
 Source: [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
 [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/DataPreprocessing/data_preprocessing_tools.ipynb)\
 [LinkedIn Post](https://www.linkedin.com/posts/naveen-malla_100daysofmlcode-machinelearning-datascience-activity-6702256267097968641-rxEO)
- 
+
 **DAY 2**:
 Today I've learned and implemented Simple Linear Regression.
 [Code](https://github.com/naveenmalla046/100DaysOfMLCode/blob/master/Regression/simple_linear_regression.ipynb)\
