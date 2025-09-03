@@ -597,3 +597,6 @@ Read Medium article on usinf different RAG techniques.
 
 **DAY 198**:
 Read Medium article on Open Source Ai agents stack amd tools. 
+
+**DAY 199**:
+Read Medium arricle about good ML practices. 
