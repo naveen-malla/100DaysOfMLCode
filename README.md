@@ -600,3 +600,6 @@ Read Medium article on Open Source Ai agents stack amd tools.
 
 **DAY 199**:
 Read Medium arricle about good ML practices. 
+
+**DAY 200**:
+Read Medium article about good prompting methods. 
