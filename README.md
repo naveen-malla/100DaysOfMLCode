@@ -603,3 +603,6 @@ Read Medium arricle about good ML practices.
 
 **DAY 200**:
 Read Medium article about good prompting methods. 
+
+**DAY 201**:
+Read Medium article about AI agents. 
