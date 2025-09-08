@@ -606,3 +606,6 @@ Read Medium article about good prompting methods.
 
 **DAY 201**:
 Read Medium article about AI agents. 
+
+**DAY 202**:
+Read Medium article on Dspy. 
