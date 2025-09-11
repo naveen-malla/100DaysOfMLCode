@@ -609,3 +609,6 @@ Read Medium article about AI agents.
 
 **DAY 202**:
 Read Medium article on Dspy. 
+
+**DAY 203**:
+Read Medium article on using NotebookLM to increasing productivity and learning. 
