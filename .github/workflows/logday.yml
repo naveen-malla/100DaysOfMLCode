@@ -1,56 +1,37 @@
-name: Daily Log Automation
+name: Daily Log Comment Handler
+
 on:
-  schedule:
-    # Run daily at 9:00 AM UTC
-    - cron: '0 9 * * *'
-  workflow_dispatch:
+  issue_comment:
+    types: [created]
+
 jobs:
-  create-daily-log:
+  handle-daily-log:
+    if: contains(github.event.comment.body, 'Daily Log:')
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - name: Create daily log entry
+          
+      - name: Process daily log comment
         run: |
-          DATE=$(date +'%Y-%m-%d')
-          DAY_NUMBER=$(( ( $(date +%s) - $(date -d '2024-01-01' +%s) ) / 86400 + 1 ))
-          LOG_FILE="logs/Day_${DAY_NUMBER}_${DATE}.md"
+          python scripts/logday.py "${{ github.event.comment.body }}" "${{ github.event.comment.user.login }}"
           
-          mkdir -p logs
-          
-          cat > "$LOG_FILE" << EOF
-          # Day $DAY_NUMBER - $DATE
-          
-          ## Today's Learning
-          
-          ### Concepts Studied
-          - [ ] Add what you learned today
-          
-          ### Code Implemented
-          - [ ] Add code/projects worked on
-          
-          ### Resources Used
-          - [ ] Add resources, tutorials, papers read
-          
-          ### Challenges Faced
-          - [ ] Document any challenges or obstacles
-          
-          ### Next Steps
-          - [ ] Plan for tomorrow
-          
-          ---
-          
-          **Time Spent:** ___ hours  
-          **Progress:** ___/100 days
-          EOF
-      - name: Commit and push daily log
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Add daily log entry for $(date +'%Y-%m-%d')" || exit 0
-          git push
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "${{ github.event.comment.body }}"
+            git push
+          fi
