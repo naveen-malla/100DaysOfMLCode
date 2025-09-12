@@ -5,19 +5,20 @@ Appends daily log entries to README.md in the format:
 **DAY N**:
 MESSAGE
 """
-
 import sys
 import re
 from pathlib import Path
 
 def extract_log_message(comment_body):
     """
-    Extract the message after 'Daily Log:' from the comment
+    Extract the message after 'Daily Log:' from the comment if present,
+    otherwise return the entire comment body as the log message
     """
     match = re.search(r'Daily Log:\s*(.+)', comment_body, re.IGNORECASE | re.DOTALL)
     if match:
         return match.group(1).strip()
-    return None
+    # If no "Daily Log:" prefix found, use the entire comment body
+    return comment_body.strip()
 
 def get_next_day_number(readme_content):
     """
@@ -35,10 +36,10 @@ def main():
     comment_body = sys.argv[1]
     username = sys.argv[2] if len(sys.argv) > 2 else 'user'
     
-    # Extract the log message
+    # Extract the log message (now always returns something)
     log_message = extract_log_message(comment_body)
     if not log_message:
-        print("No 'Daily Log:' found in comment")
+        print("Comment body is empty")
         sys.exit(0)
     
     readme_path = Path('README.md')
