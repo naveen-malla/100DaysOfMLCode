@@ -1,12 +1,10 @@
 name: Daily Log Comment Handler
-
 on:
   issue_comment:
     types: [created]
-
 jobs:
   handle-daily-log:
-    if: contains(github.event.comment.body, 'Daily Log:')
+    if: contains(github.event.issue.labels.*.name, 'daily-log')
     runs-on: ubuntu-latest
     
     steps:
