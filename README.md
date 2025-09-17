@@ -617,3 +617,4 @@ Read Medium article on using NotebookLM to increasing productivity and learning.
 Read Medium article about staying relevant as a data scientist. 
 
 **DAY 205**:
+Watched youtube videos on MLOps
