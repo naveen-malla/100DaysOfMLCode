@@ -618,3 +618,6 @@ Read Medium article about staying relevant as a data scientist.
 
 **DAY 205**:
 Watched youtube videos on MLOps
+
+**DAY 206**:
+Read medium article about using agents to code. 
