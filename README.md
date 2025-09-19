@@ -621,3 +621,7 @@ Watched youtube videos on MLOps
 
 **DAY 206**:
 Read medium article about using agents to code. 
+
+**DAY 207**:
+Read medium article about using SEAL architecture to self tune llms. 
+
