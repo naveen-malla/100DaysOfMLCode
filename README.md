@@ -628,5 +628,8 @@ Read medium article about using SEAL architecture to self tune llms.
 **DAY 208**:
 Read medium article about making chatgpt less of a yes man. 
 
-**DAY 208**:
+**DAY 209**:
 Read medium article about why LLMs hallucinate. apparently its because of the way they are trained. 
+
+**DAY 210**:
+Read medium article about MCP servers 
