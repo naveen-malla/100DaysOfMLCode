@@ -636,3 +636,6 @@ Read medium article about MCP servers
 
 **DAY 211**: 
 Read medium article on identifying best classification model based on calibration scores. 
+
+**DAY 212**: 
+Read medium article on using AI with efficient note taking to provide more context.
