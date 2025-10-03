@@ -643,8 +643,6 @@ Read medium article on using AI with efficient note taking to provide more conte
 **DAY 213**: 
 Read medium article on Claude 4.5 sonnet
 
-context.
-
 **DAY 214**: 
 Read medium article on SORA 2 and its effects and about MCP servers
 
