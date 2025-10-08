@@ -649,4 +649,6 @@ Read medium article on SORA 2 and its effects and about MCP servers
 **DAY 215**: 
 Read medium article on claude 4.5
 
+**DAY 216**: 
+Watched videos on agentic AI
 
