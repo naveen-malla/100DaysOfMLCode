@@ -652,3 +652,5 @@ Read medium article on claude 4.5
 **DAY 216**: 
 Watched videos on agentic AI and read about working with Agents. 
 
+**DAY 217**: 
+Read Medium article on opportunities to build AI based products. 
