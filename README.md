@@ -654,3 +654,6 @@ Watched videos on agentic AI and read about working with Agents.
 
 **DAY 217**: 
 Read Medium article on opportunities to build AI based products. 
+
+**DAY 217**: 
+Read Medium article on URL context grounding and its relevance to RAG. 
