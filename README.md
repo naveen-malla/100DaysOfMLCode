@@ -657,3 +657,6 @@ Read Medium article on opportunities to build AI based products.
 
 **DAY 217**: 
 Read Medium article on URL context grounding and its relevance to RAG. 
+
+**DAY 218**:
+Read Medium article on using AI model better for coding. 
