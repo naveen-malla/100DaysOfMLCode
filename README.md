@@ -660,3 +660,6 @@ Read Medium article on URL context grounding and its relevance to RAG.
 
 **DAY 218**:
 Read Medium article on using AI model better for coding. 
+
+**DAY 219**:
+Read Medium article on the infamous MIT article stating 95% failure rate in organisations using AI. 
