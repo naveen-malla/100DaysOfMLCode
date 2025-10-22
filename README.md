@@ -663,3 +663,6 @@ Read Medium article on using AI model better for coding.
 
 **DAY 219**:
 Read Medium article on the infamous MIT article stating 95% failure rate in organisations using AI. 
+
+**DAY 220**:
+Read Medium article on using AI to write better 
