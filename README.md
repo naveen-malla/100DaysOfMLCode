@@ -666,3 +666,6 @@ Read Medium article on the infamous MIT article stating 95% failure rate in orga
 
 **DAY 220**:
 Read Medium article on using AI to write better 
+
+**DAY 221**:
+Read Medium article on new Deepseek OCR model. 
