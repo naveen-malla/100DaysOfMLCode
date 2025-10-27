@@ -669,3 +669,6 @@ Read Medium article on using AI to write better
 
 **DAY 221**:
 Read Medium article on new Deepseek OCR model. 
+
+**DAY 222**:
+Read Medium article on a useful prompting strategy.
