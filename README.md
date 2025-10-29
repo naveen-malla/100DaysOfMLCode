@@ -672,3 +672,6 @@ Read Medium article on new Deepseek OCR model.
 
 **DAY 222**:
 Read Medium article on a useful prompting strategy.
+
+**DAY 223**:
+Read Medium article on building projects with several agents. 
