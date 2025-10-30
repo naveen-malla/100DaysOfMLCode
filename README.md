@@ -675,3 +675,6 @@ Read Medium article on a useful prompting strategy.
 
 **DAY 223**:
 Read Medium article on building projects with several agents. 
+
+**DAY 223**:
+Read Medium article on building MCP servers for ChatGPT
