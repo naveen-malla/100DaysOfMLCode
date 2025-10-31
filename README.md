@@ -678,3 +678,6 @@ Read Medium article on building projects with several agents.
 
 **DAY 223**:
 Read Medium article on building MCP servers for ChatGPT
+
+**DAY 224**:
+Read several medium articles on tech, science, history and geography. 
