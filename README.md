@@ -681,3 +681,6 @@ Read Medium article on building MCP servers for ChatGPT
 
 **DAY 224**:
 Read several medium articles on tech, science, history and geography. 
+
+**DAY 225**:
+Read Medium article on MCP servers and Claude's new skills feature. 
