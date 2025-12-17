@@ -684,3 +684,6 @@ Read several medium articles on tech, science, history and geography.
 
 **DAY 225**:
 Read Medium article on MCP servers and Claude's new skills feature. 
+
+**DAY 226**:
+Read Medium article on Google's Transformer 2.0 paper
