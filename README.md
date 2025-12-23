@@ -1,4 +1,4 @@
-   
+    
 **DAY 1**: 
 Today I've learned about Data Preprocessing:
 * Importing the libraries
@@ -687,6 +687,6 @@ Read Medium article on MCP servers and Claude's new skills feature.
 
 **DAY 226**:
 Read Medium article on Google's Transformer 2.0 paper
-
-**DAY 227**:
-Read Medium article on building rag system without hallucinations
+ 
+**DAY 227**
+Read article on building rag system without hallucinations
