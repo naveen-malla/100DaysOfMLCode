@@ -690,3 +690,6 @@ Read Medium article on Google's Transformer 2.0 paper
  
 **DAY 227**
 Read article on building rag system without hallucinations
+
+**DAY 228**:
+Read medium article on scaling laws and what to expect in 2026 for llms. 
