@@ -696,3 +696,6 @@ Read medium article on scaling laws and what to expect in 2026 for llms.
 
 **DAY 229**:
 Read Medium article on LLM pretraining post training and alignment. 
+
+**DAY 230**:
+Read Medium article on looped transformers
