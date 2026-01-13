@@ -699,3 +699,6 @@ Read Medium article on LLM pretraining post training and alignment.
 
 **DAY 230**:
 Read Medium article on looped transformers
+
+**DAY 231**:
+Read Medium article on NotebookLM
