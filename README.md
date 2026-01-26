@@ -702,3 +702,6 @@ Read Medium article on looped transformers
 
 **DAY 231**:
 Read Medium article on NotebookLM
+
+**DAY 232**:
+Read Medium article on Deepseek engrams model. 
