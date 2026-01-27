@@ -705,3 +705,6 @@ Read Medium article on NotebookLM
 
 **DAY 232**:
 Read Medium article on Deepseek engrams model. 
+
+**DAY 233**:
+Read Medium article on Claude code and its new course. 
