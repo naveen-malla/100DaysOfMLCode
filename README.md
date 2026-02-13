@@ -711,3 +711,6 @@ Read Medium article on Claude code and its new course.
 
 **DAY 234**:
 Read Medium article on multi agentic workflows and agent tools. 
+
+**DAY 235**:
+Read Medium article on creating MCP servers
